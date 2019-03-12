@@ -1,4 +1,4 @@
 # PyTacToe
-Python game exercise
+Python tic tac toe game exercise
 
 for fun
